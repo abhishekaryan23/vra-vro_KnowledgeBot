@@ -1,0 +1,7 @@
+langchain
+pdfplumber
+sentence-transformers
+litellm
+ragas
+faiss-cpu
+pyyaml

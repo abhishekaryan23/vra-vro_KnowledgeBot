@@ -1,0 +1,4 @@
+# config.yaml
+paths:
+  data_dir: "data/raw"
+  vector_db: "vector_db/faiss_index"
